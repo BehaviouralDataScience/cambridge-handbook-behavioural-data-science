@@ -54,10 +54,11 @@ Every chapter has a short AI-assisted video overview (generated with NotebookLM 
 
 ▶️ Watch the full playlist  ·  videos are added part by part — ⏳ marks those coming soon.
 
-<!-- When a video goes live, replace ⏳ with: [▶️ Watch](https://youtu.be/PLUqftK9OAA0U&si=27dtKKSI2hGIeqYS)
+<!-- When a video goes live, replace ⏳ with: [▶️ Watch](https://youtube.com/playlist?list=PLUqftK9OAA0U&si=LCNF62Tzrl-RTJB4)
      For a thumbnail instead of a text link, use:
      [<img src="https://img.youtube.com/vi/VIDEO_ID/mqdefault.jpg" width="140">](https://youtu.be/PLUqftK9OAA0U&si=27dtKKSI2hGIeqYS) -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=27dtKKSI2hGIeqYS&amp;list=PLUqftK9OAA0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Introduction
 Ch.	Chapter	Authors	Video
