@@ -54,9 +54,7 @@ Every chapter has a short AI-assisted video overview (generated with NotebookLM 
 
 ▶️ Watch the full playlist  ·  videos are added part by part — ⏳ marks those coming soon.
 
-<!-- When a video goes live, replace ⏳ with: [▶️ Watch]
-https://img.youtube.com/vi/VIDEO_ID/mqdefault.jpg" width="140">](https://youtu.be/PLUqftK9OAA0U)
-
+<!-- When a video goes live, replace ⏳ with: [▶️ Watch] (https://youtube.com/playlist?list=PLUqftK9OAA0U&si=27dtKKSI2hGIeqYS)
 
 
 Introduction
