@@ -1,1 +1,37 @@
-CITATION.cff
+cff-version: 1.2.0
+message: "If you use this resource, please cite the Handbook as below."
+title: "The Cambridge Handbook of Behavioural Data Science — companion repository"
+type: dataset
+authors:
+  - family-names: Pogrebna
+    given-names: Ganna
+    affiliation: "University of Sydney Business School; The Alan Turing Institute"
+  - family-names: Hills
+    given-names: Thomas T.
+    affiliation: "University of Warwick"
+repository-code: "https://github.com/BehaviouralDataScience/cambridge-handbook-behavioural-data-science"
+url: "https://behaviouraldatascience.github.io"
+keywords:
+  - behavioural data science
+  - behavioral data science
+  - behavioural AI
+  - data science
+  - behavioural science
+preferred-citation:
+  type: book
+  title: "The Cambridge Handbook of Behavioural Data Science"
+  editors:
+    - family-names: Pogrebna
+      given-names: Ganna
+    - family-names: Hills
+      given-names: Thomas T.
+  authors:
+    - family-names: Pogrebna
+      given-names: Ganna
+    - family-names: Hills
+      given-names: Thomas T.
+  publisher:
+    name: "Cambridge University Press"
+  year: 2026
+  doi: "10.1017/9781108939010"
+  isbn: "9781108837392"
