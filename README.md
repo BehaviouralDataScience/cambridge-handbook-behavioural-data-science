@@ -52,11 +52,7 @@ BibTeX
 
 Every chapter has a short AI-assisted video overview (generated with NotebookLM and reviewed by the editors) on our YouTube channel.
 
-▶️ Watch the full playlist ·  videos are added part by part — ⏳ marks those coming soon.
-
-<!-- When a video goes live, replace ⏳ with: [▶️ Watch][https://youtube.com/playlist?list=PLUqftK9OAA0U&si=LCNF62Tzrl-RTJB4]
-     For a thumbnail instead of a text link, use:
-     [<img src="https://img.youtube.com/vi/VIDEO_ID/mqdefault.jpg" width="140">](https://youtu.be/PLUqftK9OAA0U&si=27dtKKSI2hGIeqYS) -->
+▶️ Watch the full playlist ·  videos are added part by part — ⏳ marks those coming soon: https://youtube.com/playlist?list=PLUqftK9OAA0U&si=LCNF62Tzrl-RTJB4
 
 Introduction
 Ch.	Chapter	Authors	Video
