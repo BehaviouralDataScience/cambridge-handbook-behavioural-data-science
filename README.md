@@ -54,9 +54,8 @@ Every chapter has a short AI-assisted video overview (generated with NotebookLM 
 
 ▶️ Watch the full playlist  ·  videos are added part by part — ⏳ marks those coming soon.
 
-<!-- When a video goes live, replace ⏳ with: [▶️ Watch](https://youtu.be/PLUqftK9OAA0U/)
-     For a thumbnail instead of a text link, use:
-     [<img src="https://img.youtube.com/vi/VIDEO_ID/mqdefault.jpg" width="140">](https://youtu.be/VIDEO_ID) -->
+<!-- When a video goes live, replace ⏳ with: [▶️ Watch]
+https://img.youtube.com/vi/VIDEO_ID/mqdefault.jpg" width="140">](https://youtu.be/PLUqftK9OAA0U)
 
 
 
@@ -66,7 +65,7 @@ Ch.	Chapter	Authors	Video
 
 Part I · Introduction to Behavioural Data Science
 Ch.	Chapter	Authors	Video
-1	History of Behavioural Data Science: Successes and Challenges	Ganna Pogrebna & Thomas T. Hills	⏳
+1	History of Behavioural Data Science: Successes and Challenges	Ganna Pogrebna & Thomas T. Hills	(https://youtu.be/uKvlBQV2rFw)
 2	Overview of Behavioural Data Science	Ganna Pogrebna	⏳
 3	Behavioural Data Science: Framework and Topology of Methods	Ganna Pogrebna	⏳
 
