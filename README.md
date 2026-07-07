@@ -49,7 +49,7 @@ Click **"Cite this repository"** in the sidebar for machine-readable formats, or
 
 Every chapter has a short AI-assisted video overview (generated with NotebookLM and reviewed by the editors) on our YouTube channel.
 
-▶️ **[Watch the full playlist](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)** &nbsp;·&nbsp; videos are added part by part — ⏳ marks those coming soon.
+▶️ **[Watch the full playlist](https://youtube.com/playlist?list=PLUqftK9OAA0U&si=24GVkdiN4LHf50RB)** &nbsp;·&nbsp; videos are added part by part — ⏳ marks those coming soon.
 
 <!-- When a video goes live, replace ⏳ with: [▶️ Watch](https://youtu.be/VIDEO_ID)
      For a thumbnail instead of a text link, use:
@@ -65,7 +65,7 @@ Every chapter has a short AI-assisted video overview (generated with NotebookLM 
 
 | Ch. | Chapter | Authors | Video |
 |---|---|---|---|
-| 1 | History of Behavioural Data Science: Successes and Challenges | Ganna Pogrebna & Thomas T. Hills | ⏳ |
+| 1 | History of Behavioural Data Science: Successes and Challenges | Ganna Pogrebna & Thomas T. Hills | https://youtu.be/uKvlBQV2rFw?si=dDc_pYyyTi_wCTCB |
 | 2 | Overview of Behavioural Data Science | Ganna Pogrebna | ⏳ |
 | 3 | Behavioural Data Science: Framework and Topology of Methods | Ganna Pogrebna | ⏳ |
 
