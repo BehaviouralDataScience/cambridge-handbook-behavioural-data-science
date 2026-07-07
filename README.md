@@ -138,7 +138,7 @@ Every chapter has a short AI-assisted video overview (generated with NotebookLM 
 
 ## About the editors
 
-**Ganna Pogrebna** is Professor at the University of Sydney Business School and Lead of the Behavioural Data Science group at The Alan Turing Institute. She is a pioneer of behavioural data science and behavioural AI, and the author of *The Missing B in AI* (2025).
+**Ganna Pogrebna** is Professor at the Queen's University Belfast and the Australian Strategic Policy Institute (ASPI). She is a pioneer of behavioural data science and behavioural AI, and the author of *The Missing B in AI* (2025).
 
 **Thomas T. Hills** is Professor in the Department of Psychology and Director of the Behavioural and Data Science MSc at the University of Warwick, and the author of *Behavioral Network Science* (Cambridge University Press, 2024).
 
